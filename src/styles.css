@@ -1,0 +1,14 @@
+html, body { 
+  height: 100%; 
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+body { 
+  background-color: #303030;
+  color: white;
+}
+
+.mat-app-background {
+  background-color: #303030;
+}
